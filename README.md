@@ -1,0 +1,1 @@
+my bootstrap framework for managers, its just a demo no that detailed in content, i used google for some features.
